@@ -18,7 +18,7 @@ Hi, I'm Averak a student studying software development in Japan.
 - ⌨️ I'm currently using [Averak keyboard](./assets/Averak-keymap.png)
 - 🌱 I’m currently learning speech processing
 - ⚙️ I'm interested in software design pattern
-- 👯 I’m looking to collaborate on [DaaS](https://github.com/averak/DaaS)
+- 👯 I’m looking to collaborate on [DaaS](https://github.com/rits-dajare/DaaS)
 - 💬 Ask me about anything [here](https://github.com/averak/averak/issues)
 
 **Languages and Tools:**
