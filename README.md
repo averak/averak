@@ -35,3 +35,5 @@ _I belong to Ritsumeikan Computer Club, and I am developing speech processing an
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&show_icons=true&theme=nightowl" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&hide=" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
