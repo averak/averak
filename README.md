@@ -33,7 +33,16 @@ Hi, I'm Averak a student studying software development in Japan.
 
 _I belong to Ritsumeikan Computer Club, and I am developing speech processing and dajare engine. Thank you for visiting this page!_
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&show_icons=true&theme=nightowl" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&hide=" />
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=averak&column=7"/>
+</div>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact" />
+</div>
+
