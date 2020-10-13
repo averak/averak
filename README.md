@@ -1,13 +1,14 @@
 ## Averak
 
-<a href="http://www.rcc.ritsumei.ac.jp/">
-  <img align="left" width="21px" src="https://raw.githubusercontent.com/averak/averak/master/assets/rcc.svg" />
+
+<a href="https://twitter.com/averak_jp">
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/averak/averak/master/assets/twitter.svg" />
 </a>
 <a href="https://qiita.com/averak">
   <img align="left" width="21px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
 </a>
-<a href="https://www.lancers.jp/profile/AbeLab">
-  <img align="left" width="21px" src="https://www.lancers.jp/favicon.ico" />
+<a href="http://www.rcc.ritsumei.ac.jp/">
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/averak/averak/master/assets/rcc.svg" />
 </a>
 
 <br />
