@@ -1,6 +1,5 @@
 ## Averak
 
-
 <a href="https://twitter.com/averak_jp">
   <img align="left" width="21px" src="https://raw.githubusercontent.com/averak/averak/master/assets/twitter.svg" />
 </a>
@@ -33,7 +32,7 @@ Hi, I'm Averak a student studying software development in Japan.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
-_I belong to Ritsumeikan Computer Club, and I am developing speech processing and dajare engine. Thank you for visiting this page!_
+_I belong to Ritsumeikan Computer Club, and I want to know more about engineering. Thank you for visiting this page!_
 
 ---
 
@@ -47,4 +46,3 @@ _I belong to Ritsumeikan Computer Club, and I am developing speech processing an
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact" />
 </div>
-
