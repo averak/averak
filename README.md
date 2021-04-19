@@ -15,11 +15,12 @@
 
 Hi, I'm Averak a student studying software development in Japan.
 
-- ⌨️ I'm currently using [Averak keyboard](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
-- 🌱 I’m currently learning speech processing
-- ⚙️ I'm interested in software design pattern
-- 👯 I’m looking to collaborate on [rits-dajare](https://github.com/rits-dajare)
-- 💬 Ask me about anything [here](https://github.com/averak/averak/issues)
+- :keyboard: I usually use [Averak keyboard](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
+- :seedling: I'm currently learning speech processing
+- :gear: I'm interested in software design pattern
+- :computer: I'm working at [Nintendo Co., Ltd](https://www.nintendo.co.jp/).
+- :two_men_holding_hands: I’m looking to collaborate on [rits-dajare](https://github.com/rits-dajare)
+- :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues)
 
 **Languages and Tools:**
 
@@ -32,8 +33,6 @@ Hi, I'm Averak a student studying software development in Japan.
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/vim.svg"></code>
-
-_I belong to Ritsumeikan Computer Club, and I want to know more about engineering. Thank you for visiting this page!_
 
 ---
 
