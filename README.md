@@ -23,16 +23,15 @@ Hi, I'm Averak a student studying software development in Japan.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/rails.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/vim.svg"></code>
 
 _I belong to Ritsumeikan Computer Club, and I want to know more about engineering. Thank you for visiting this page!_
 
