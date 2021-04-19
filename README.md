@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Averak a student studying software development in Japan.
+Hi, I'm Averak a student studying software engineering in Japan.
 
 - :keyboard: I usually use [Averak keyboard](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
 - :seedling: I'm currently learning speech processing
