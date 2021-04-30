@@ -15,10 +15,10 @@
 
 Hi, I'm Averak a student studying software engineering in Japan.
 
+- :computer: I'm currently working on [Nintendo Co., Ltd](https://www.nintendo.co.jp/).
+- :seedling: I'm currently learning **speech processing**
+- :gear: I'm interested in **software design pattern**
 - :keyboard: I usually use [Averak keyboard](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
-- :seedling: I'm currently learning speech processing
-- :gear: I'm interested in software design pattern
-- :computer: I'm working at [Nintendo Co., Ltd](https://www.nintendo.co.jp/).
 - :two_men_holding_hands: I’m looking to collaborate on [rits-dajare](https://github.com/rits-dajare)
 - :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues)
 
