@@ -37,7 +37,7 @@ Hi, I'm Averak a student studying software engineering in Japan.
 ---
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=averak&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=averak&column=8"/>
 </div>
 
 ---
