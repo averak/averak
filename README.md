@@ -29,6 +29,7 @@ Hi, I'm Averak a student studying software engineering in Japan.
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/rails.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/vim.svg"></code>
