@@ -16,7 +16,7 @@
 Hi, I'm Averak a student studying software engineering in Japan.
 
 - :computer: I'm currently working on [Nintendo Co., Ltd](https://www.nintendo.co.jp/)
-- :seedling: I'm interested in **software design**
+- :seedling: I'm interested in software design
 - :keyboard: I usually use [Averak keyboard layout](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
 - :two_men_holding_hands: I’m looking to collaborate on [rits-dajare](https://github.com/rits-dajare)
 - :sparkles: I love [寿司打](http://typingx0.net/sushida/) and have a high score of 30260
