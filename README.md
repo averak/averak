@@ -24,10 +24,10 @@ Hi, I'm Averak a student studying software engineering in Japan.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
