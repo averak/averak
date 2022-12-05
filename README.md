@@ -18,7 +18,6 @@ Hi, I'm Averak a student studying software engineering in Japan.
 - :computer: I'm currently working on [Nintendo Co., Ltd](https://www.nintendo.co.jp/)
 - :seedling: I'm interested in software design
 - :keyboard: I usually use [Averak keyboard layout](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
-- :two_men_holding_hands: I’m looking to collaborate on [rits-dajare](https://github.com/rits-dajare)
 - :sparkles: I love [寿司打](http://typingx0.net/sushida/) and have a high score of 30260
 - :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues)
 
@@ -26,7 +25,6 @@ Hi, I'm Averak a student studying software engineering in Japan.
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
@@ -43,5 +41,5 @@ Hi, I'm Averak a student studying software engineering in Japan.
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css,php" />
 </div>
