@@ -13,13 +13,12 @@
 <br />
 <br />
 
-Hi, I'm Averak a student studying software engineering in Japan.
+Hi, I'm Averak a server-side engineer from Japan.
 
-- :computer: I'm currently working on [Nintendo Co., Ltd](https://www.nintendo.co.jp/)
-- :seedling: I'm interested in software design
-- :keyboard: I usually use [Averak keyboard layout](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png)
-- :sparkles: I love [寿司打](http://typingx0.net/sushida/) and have a high score of 30260
-- :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues)
+- :briefcase: I'm a server-side engineer at [Nintendo Co., Ltd](https://www.nintendo.co.jp/).
+- :seedling: I'm interested in software design and testing.
+- :sparkles: I love keyboard layout design, and [here](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png) is my own layout.
+- :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues).
 
 **Languages and Tools:**
 
