@@ -15,7 +15,7 @@
 
 Hi, I'm Averak a server-side engineer from Japan.
 
-- :briefcase: I'm a server-side engineer at [Nintendo Co., Ltd](https://www.nintendo.co.jp/).
+- :briefcase: I'm a server-side engineer at [DeNA Co., Ltd](https://dena.jp).
 - :seedling: I'm interested in software design and testing.
 - :sparkles: I love keyboard layout design, and [here](https://raw.githubusercontent.com/averak/averak/master/assets/Averak-keymap.png) is my own layout.
 - :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues).
