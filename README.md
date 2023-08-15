@@ -24,6 +24,7 @@ Hi, I'm Averak a server-side engineer from Japan.
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
