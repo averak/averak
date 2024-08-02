@@ -22,11 +22,11 @@ Hi, I'm Averak a game server engineer from Japan.
 
 **Languages and Tools:**
 
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/vim.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"></code>
