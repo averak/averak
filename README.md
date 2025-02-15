@@ -28,5 +28,5 @@ Hi, I'm Averak a game server engineer from Japan.
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css,php" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css,php,javascript" />
 </div>
