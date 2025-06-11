@@ -3,7 +3,7 @@
 Hi, I'm Averak a game server engineer from Japan.
 
 - :briefcase: I'm a game server engineer at [DeNA Co., Ltd](https://dena.jp).
-- :seedling: I am interested in software architecture, cost optimization, and quality attributes.
+- :seedling: I am interested in software architecture, concurrency, and quality attributes.
 - :sparkles: I love keyboard layout design, and [here](https://raw.githubusercontent.com/averak/averak/master/assets/averak-keymap.png) is my own layout.
 - :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues).
 
