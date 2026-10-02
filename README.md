@@ -9,5 +9,5 @@ Hi, I'm Averak — a software engineer in Japan, working across game server syst
 <details>
 <summary><b>HackerOne VDP leaderboard, Q3 2026</b></summary>
 <br>
-<img width="620" alt="Top three of the HackerOne VDP reputation leaderboard for Q3 2026: l8_trident is 1st with 3,954 reputation, 0neplus 2nd with 3,150, and aawartkc 3rd with 1,213." src="https://raw.githubusercontent.com/averak/averak/master/assets/hackerone-vdp-q3-2026.png">
+<img width="820" alt="HackerOne VDP reputation leaderboard for Q3 2026, showing the top three on the podium and in the ranking table: l8_trident 1st with 3,954 reputation, 0neplus 2nd with 3,150, and aawartkc 3rd with 1,213." src="https://raw.githubusercontent.com/averak/averak/master/assets/hackerone-vdp-q3-2026.png">
 </details>
