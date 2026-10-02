@@ -4,7 +4,7 @@ Hi, I'm Averak — a software engineer in Japan, working on AI-driven offensive 
 - :video_game: **[DeNA](https://dena.jp)** — Lead Engineer. Designing game server systems that scale.
 - :trophy: **HackerOne** — Our AI agent [`l8_trident`](https://hackerone.com/l8_trident) finished [#1 worldwide on the VDP leaderboard for Q3 2026](https://hackerone.com/leaderboard/reputation?year=2026&quarter=3&tab=vdp&userTypeTab=individual) with 3,954 reputation.
 - :seedling: **Interests** — Software architecture, distributed systems, concurrency, and cost optimization.
-- :speech_balloon: **Say hi** — Open an [issue](https://github.com/averak/averak/issues), or find me on [X](https://x.com/averak_jp).
+- :speech_balloon: **Say hi** — Open an [issue](https://github.com/averak/averak/issues), or find me on [LinkedIn](https://www.linkedin.com/in/averak/).
 
 <details>
 <summary><b>HackerOne VDP leaderboard, Q3 2026</b></summary>
