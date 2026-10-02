@@ -1,32 +1,10 @@
 ## Averak
 
-Hi, I'm Averak a game server engineer from Japan.
+Hi, I'm Averak, a software engineer based in Japan working on game server systems and AI-driven security.
 
-- :briefcase: I'm a game server engineer at [DeNA Co., Ltd](https://dena.jp).
-- :seedling: I am interested in software architecture, cost optimization, and quality attributes.
-- :sparkles: I love keyboard layout design, and [here](https://raw.githubusercontent.com/averak/averak/master/assets/averak-keymap.png) is my own layout.
-- :speech_balloon: Ask me about anything [here](https://github.com/averak/averak/issues).
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<code><img height="20" src="https://ja.quarkus.io/assets/images/brand/quarkus_icon_256px_default.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/vim.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"></code>
-
----
-
-<div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=averak&column=8"/>
-</div>
-
----
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=averak&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css,php,javascript" />
-</div>
+- :robot: Co-founder of [Layer8](https://layer8.jp), building autonomous AI agents for penetration testing.
+- :trophy: Our AI agent research account [ranked #1 globally on HackerOne’s VDP leaderboard for Q3 2026](https://hackerone.com/leaderboard/reputation?year=2026&quarter=3&tab=vdp&userTypeTab=individual).
+- :seedling: Interested in software architecture, distributed systems, concurrency, and cost optimization.
+- :briefcase: Lead Engineer at [DeNA](https://dena.jp), working on scalable game server systems.
+- :sparkles: I enjoy keyboard layout design. Here's [my custom layout](https://raw.githubusercontent.com/averak/averak/master/assets/averak-keymap.png).
+- :speech_balloon: Feel free to ask me questions via [GitHub Issues](https://github.com/averak/averak/issues).
