@@ -1,4 +1,4 @@
-Hi, I'm Averak — a software engineer in Japan, working across game server systems and offensive security.
+Hi, I'm Averak — a software engineer in Japan, working on AI-driven offensive security and game server systems.
 
 - :robot: **[Layer8](https://layer8.jp)** — Co-founder. Building autonomous AI agents for penetration testing.
 - :video_game: **[DeNA](https://dena.jp)** — Lead Engineer. Designing game server systems that scale.
